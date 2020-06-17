@@ -6,7 +6,6 @@ using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using BooksScheduler;
-using BooksScheduler.Model;
 using System.Collections.Generic;
 using System.Linq;
 

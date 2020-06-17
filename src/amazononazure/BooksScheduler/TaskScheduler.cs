@@ -41,7 +41,6 @@ namespace BooksScheduler
                             //get the page books
                             Crawler crawler = new Crawler();
 
-                            Console.WriteLine($"Processing {url}");
                             _logger.LogInformation("Processing page {0}", url);
                             var pageBooks = await crawler.ProcessAsync(url);
 
@@ -61,10 +60,11 @@ namespace BooksScheduler
                         semaphore.Release();
                         return counter;// stop on first error
                     }
-                    finally
-                    {
-                        semaphore.Release();
-                    }
+                    //finally
+                    //{
+                    //    if(semaphore != null)
+                    //        semaphore.Release();
+                    //}
                 }
 
                 await Task.WhenAll(trackedTasks);
