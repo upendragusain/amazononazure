@@ -5,9 +5,17 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackgroundTasks", "BackgroundTasks", "{75843785-E1C1-4ACB-A41C-45E4219C5588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksScheduler", "BooksScheduler\BooksScheduler.csproj", "{A77733A1-5A18-4274-8BEB-56678162BE1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksScheduler", "BooksScheduler\BooksScheduler.csproj", "{A77733A1-5A18-4274-8BEB-56678162BE1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookSchedulerFunctionApp", "BackgroundTasks\BookSchedulerFunctionApp\BookSchedulerFunctionApp.csproj", "{F0BB6CC3-6D63-42B8-AF5D-2CB92DB3936F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookSchedulerFunctionApp", "BackgroundTasks\BookSchedulerFunctionApp\BookSchedulerFunctionApp.csproj", "{F0BB6CC3-6D63-42B8-AF5D-2CB92DB3936F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{5706CEA4-D04B-47A0-8959-641C52E5CF8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{679011DE-5292-4A23-A3CD-9E7A4766C519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.API", "Catalog.API\Catalog.API.csproj", "{101F7EF8-4F0E-4739-B470-75FA61E1F2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.Domain", "Catalog.Domain\Catalog.Domain.csproj", "{B54FC88C-45A7-44D7-A67A-7B786F615967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +31,14 @@ Global
 		{F0BB6CC3-6D63-42B8-AF5D-2CB92DB3936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0BB6CC3-6D63-42B8-AF5D-2CB92DB3936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0BB6CC3-6D63-42B8-AF5D-2CB92DB3936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101F7EF8-4F0E-4739-B470-75FA61E1F2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101F7EF8-4F0E-4739-B470-75FA61E1F2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101F7EF8-4F0E-4739-B470-75FA61E1F2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101F7EF8-4F0E-4739-B470-75FA61E1F2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54FC88C-45A7-44D7-A67A-7B786F615967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54FC88C-45A7-44D7-A67A-7B786F615967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54FC88C-45A7-44D7-A67A-7B786F615967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54FC88C-45A7-44D7-A67A-7B786F615967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +46,9 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A77733A1-5A18-4274-8BEB-56678162BE1D} = {75843785-E1C1-4ACB-A41C-45E4219C5588}
 		{F0BB6CC3-6D63-42B8-AF5D-2CB92DB3936F} = {75843785-E1C1-4ACB-A41C-45E4219C5588}
+		{679011DE-5292-4A23-A3CD-9E7A4766C519} = {5706CEA4-D04B-47A0-8959-641C52E5CF8C}
+		{101F7EF8-4F0E-4739-B470-75FA61E1F2CF} = {679011DE-5292-4A23-A3CD-9E7A4766C519}
+		{B54FC88C-45A7-44D7-A67A-7B786F615967} = {679011DE-5292-4A23-A3CD-9E7A4766C519}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {54A3579E-9278-497E-9986-6AD1822DDAD5}
