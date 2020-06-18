@@ -1,0 +1,2101 @@
+[
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958d4"
+    },
+    "Name": "Own Life: How to Show Up with Confidence and Take Control of the Future",
+    "Description": null,
+    "Price": "74.83",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71a7+u-rL4L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Todd Eden",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958d5"
+    },
+    "Name": "Robert B. Parker's Colorblind (A Jesse Stone Mystery)",
+    "Description": null,
+    "Price": "39.68",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71quaeT--7L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Reed Farrel Coleman",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958d7"
+    },
+    "Name": "Downs and Ups: A Memoir of Hope and Resilience for Parents",
+    "Description": null,
+    "Price": "32.16",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/A1NJcIE8VPL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Sue Lachman",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958d8"
+    },
+    "Name": "Robert B. Parker's Colorblind (A Jesse Stone Mystery)",
+    "Description": null,
+    "Price": "4.03",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71quaeT--7L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Reed Farrel Coleman",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958da"
+    },
+    "Name": "Adventures of the Horse Doctor's Husband",
+    "Description": null,
+    "Price": "71.83",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71IEaPojnqL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Justin B. Long",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958de"
+    },
+    "Name": "On Desire: Why We Want What We Want",
+    "Description": null,
+    "Price": "18.66",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/715s7jakrkL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "William B. Irvine",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958dd"
+    },
+    "Name": "PIRATES (B FORMAT): A General History of the Robberies and Murders of the Most Notorious Pirates",
+    "Description": null,
+    "Price": "46.07",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41CMEY3T9AL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Charles Johnson",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e1"
+    },
+    "Name": "A Brief History of Ancient Greece: Politics, Society, and Culture",
+    "Description": null,
+    "Price": "35.83",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81bLTdr9S7L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e0"
+    },
+    "Name": "The Tick-Tock Trilogy: Three sensational psychological thrillers",
+    "Description": null,
+    "Price": "47.10",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/818-SkU8EPL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "David B. Lyons",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e4"
+    },
+    "Name": "On the Loose (A Katie Parker Production, Book 2)",
+    "Description": null,
+    "Price": "17.06",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91XBBwJCkTL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Jenny B. Jones",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e3"
+    },
+    "Name": "B-17 Flying Fortress Units of the Pacific War (Combat Aircraft)",
+    "Description": null,
+    "Price": "5.30",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81M2h3HAkbL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e7"
+    },
+    "Name": "A History of the Second World War",
+    "Description": null,
+    "Price": "24.74",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/910JMdd2H+L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e6"
+    },
+    "Name": "Communication Skills OSCEs In Surgery: 40 Surgical Communication OSCEs For The MRCS Part B Examination (MD+ Surgical Revision Guides)",
+    "Description": null,
+    "Price": "4.82",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51Iw7DJhslL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958ea"
+    },
+    "Name": "The Blood of Emmett Till",
+    "Description": null,
+    "Price": "84.64",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71q3Q6yTxlL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Timothy B. Tyson",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e9"
+    },
+    "Name": "This is B.S. (Cryptid Assassin Book 6)",
+    "Description": null,
+    "Price": "22.19",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81EfJnFKF1L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Michael Anderle",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958ed"
+    },
+    "Name": "Rowland B. Wilson's Trade Secrets: Notes on Cartooning and Animation (Animation Masters Title)",
+    "Description": null,
+    "Price": "7.26",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51yZdidf3xL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958ec"
+    },
+    "Name": "Geographical Skills and Fieldwork for WJEC GCSE Geography and WJEC Eduqas GCSE (9–1) Geography A and B",
+    "Description": null,
+    "Price": "23.12",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51sMHHCL5+L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Steph Warren",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f1"
+    },
+    "Name": "The Gospel of Luke (New International Commentary on the New Testament)",
+    "Description": null,
+    "Price": "21.28",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51E73K7VQGL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Joel B. Green",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958ef"
+    },
+    "Name": "Chasing the Bear (Young Spenser)",
+    "Description": null,
+    "Price": "41.93",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91V8PldkgvL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Robert B. Parker",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f4"
+    },
+    "Name": "Secrets of Professional Tournament Poker: v. 1: Fundamentals and How to Handle Varying Stack Sizes (D&B Poker Series)",
+    "Description": null,
+    "Price": "2.64",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71esOFYNNUL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Jonathan Little",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f7"
+    },
+    "Name": "Ten Things About Writing: Build Your Story, One Word at a Time",
+    "Description": null,
+    "Price": "19.24",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81pj3X+BQaL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Joanne Harris",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f0"
+    },
+    "Name": "The Planets",
+    "Description": null,
+    "Price": "7.47",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/61PyxjEk3hL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Hardcover",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958fa"
+    },
+    "Name": "Midnight Angel (The Thorn Chronicles Book 1)",
+    "Description": null,
+    "Price": "16.76",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91pM2djYc6L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Kimberly Loth",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f2"
+    },
+    "Name": "The Complete Keto Diet Cookbook for Beginners #2019: Lose Weight with Fast and Easy Keto Diet Recipes incl. 4 Weeks Weight Loss Plan",
+    "Description": null,
+    "Price": "32.88",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/61vdxZ8mnrL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Jerry Chandler",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958fd"
+    },
+    "Name": "Bhagavad Gita - The Divine Song: A New Translation and Commentary",
+    "Description": null,
+    "Price": "60.27",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/61pMauURe0L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Rory B Mackay",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f5"
+    },
+    "Name": "IB Spanish B: Standard and Higher Level (OSC IB Revision Guides for the International Baccalaureate Diploma)",
+    "Description": null,
+    "Price": "6.87",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51qr4eNwI3L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195900"
+    },
+    "Name": "Couture Sewing: Making Designer Trims",
+    "Description": null,
+    "Price": "15.80",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91S71i9OfOL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Claire B Shaeffer",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f9"
+    },
+    "Name": "A-Level Chemistry Flash Notes OCR B Year 1 & AS: Condensed Revision Notes - Designed to Facilitate Memorisation (Chemistry Revision Cards)",
+    "Description": null,
+    "Price": "60.62",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/61gayVM9gEL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Dr. C. Boes",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195903"
+    },
+    "Name": "The Daddy Series: Books 1 - 4 (The Daddy Series Boxset)",
+    "Description": null,
+    "Price": "3.28",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81alXujTBvL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "B. B. Hamel",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958fb"
+    },
+    "Name": "With the Old Breed: At Peleliu and Okinawa",
+    "Description": null,
+    "Price": "8.54",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91nHjurxIbL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "E.B. Sledge",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195905"
+    },
+    "Name": "B-25 Mitchell Illustrated (The Illustrated Series of Military Aircraft)",
+    "Description": null,
+    "Price": "30.58",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51UhCAIM7kL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Lou Drendel",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958fe"
+    },
+    "Name": "Waltz in B Minor, Op. 69, No. 2: Sheet (Alfred Masterwork Edition)",
+    "Description": null,
+    "Price": "31.64",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91bR8duJfBL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195908"
+    },
+    "Name": "JPS B'nai Mitzvah Torah Commentary (JPS Study Bible)",
+    "Description": null,
+    "Price": "25.76",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81WGMEWJPzL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195901"
+    },
+    "Name": "B is for Boss's Baby (Office Secrets Book 3)",
+    "Description": null,
+    "Price": "13.84",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81pKb6yyo7L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Annie J. Rose",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb819590c"
+    },
+    "Name": "A First Course in Abstract Algebra",
+    "Description": null,
+    "Price": "53.11",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/31mjcx78zzL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "John B. Fraleigh",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195906"
+    },
+    "Name": "The Vanishing of Dr Winter: A Posie Parker Mystery Series, Book 4",
+    "Description": null,
+    "Price": "34.59",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/812rLF4wh5L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Audible Audiobooks",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb819590f"
+    },
+    "Name": "Sunshield: A Novel (Outlaw Road)",
+    "Description": null,
+    "Price": "22.89",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91SeWfPuuHL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Emily B. Martin",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195909"
+    },
+    "Name": "The Girl in Green",
+    "Description": null,
+    "Price": "21.56",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/9106gF-NenL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Derek B. Miller",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195911"
+    },
+    "Name": "The Bernese Mountain Dog Today (Book of the Breed S)",
+    "Description": null,
+    "Price": "19.33",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51gbsGSrD3L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Hardcover",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb819590b"
+    },
+    "Name": "On Desire: Why We Want What We Want",
+    "Description": null,
+    "Price": "43.04",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/715s7jakrkL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "William B. Irvine",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195914"
+    },
+    "Name": "The 30-Day Productivity Plan: Break The 30 Bad Habits That Are Sabotaging Your Time Management - One Day At A Time! (The 30-Day Productivity Guide Series)",
+    "Description": null,
+    "Price": "39.14",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51G13g3cQOL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Damon Zahariades",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb819590e"
+    },
+    "Name": "The Essential Keto Diet Cookbook 2019-2020: Lose Weight with Quick and Easy Ketogenic Recipes incl. 14 Days Weight Loss Plan",
+    "Description": null,
+    "Price": "39.26",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51PI83CRw6L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Rosie Baldridge",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958d6"
+    },
+    "Name": "Robert B. Parker's Colorblind (A Jesse Stone Mystery)",
+    "Description": null,
+    "Price": "26.79",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71quaeT--7L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Reed Farrel Coleman",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195912"
+    },
+    "Name": "Midnight Angel (The Thorn Chronicles Book 1)",
+    "Description": null,
+    "Price": "31.66",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91pM2djYc6L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Kimberly Loth",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb8195915"
+    },
+    "Name": "Small Habits Revolution: 10 Steps To Transforming Your Life Through The Power Of Mini Habits!",
+    "Description": null,
+    "Price": "11.42",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51ODCQMwqDL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Damon Zahariades",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958d9"
+    },
+    "Name": "Downs and Ups: A Memoir of Hope and Resilience for Parents",
+    "Description": null,
+    "Price": "1.19",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/A1NJcIE8VPL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Sue Lachman",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958db"
+    },
+    "Name": "How to Start and Run a B&B in France",
+    "Description": null,
+    "Price": "20.58",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71v6mp6C7bL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958dc"
+    },
+    "Name": "Clara Schumann: The Artist and the Woman",
+    "Description": null,
+    "Price": "42.21",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41KG5CZV9AL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Nancy B. Reich",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958df"
+    },
+    "Name": "Grade 9-1 GCSE Geography OCR B: Geography for Enquiring Minds - Exam Practice Workbook (CGP GCSE Geography 9-1 Revision)",
+    "Description": null,
+    "Price": "13.88",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81WlD+NTanL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "CGP Books",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e2"
+    },
+    "Name": "Iron Will (Cardwell Ranch: Montana Legacy, 2)",
+    "Description": null,
+    "Price": "15.57",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81uZeIk0AWL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "B J Daniels",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e5"
+    },
+    "Name": "A Level Advancing Physics for OCR B: Year 1 and AS",
+    "Description": null,
+    "Price": "31.23",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51C+C5mPe7L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958e8"
+    },
+    "Name": "Something to Believe In (A Katie Parker Production Book 4)",
+    "Description": null,
+    "Price": "39.20",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91oz8I0CJiL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Jenny B. Jones",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958eb"
+    },
+    "Name": "First 50 R&B Songs You Should Play on Piano Easy Piano",
+    "Description": null,
+    "Price": "51.96",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41hIPjtj6GL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958ee"
+    },
+    "Name": "Not Enough, Just Enough",
+    "Description": null,
+    "Price": "35.88",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41J-8o3wwRL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "A B Cofer",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f3"
+    },
+    "Name": "The Planets",
+    "Description": null,
+    "Price": "56.27",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/61PyxjEk3hL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Hardcover",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea32183316825bb81958f6"
+    },
+    "Name": "The Complete Keto Diet Cookbook for Beginners #2019: Lose Weight with Fast and Easy Keto Diet Recipes incl. 4 Weeks Weight Loss Plan",
+    "Description": null,
+    "Price": "16.48",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/61vdxZ8mnrL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Jerry Chandler",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fa3"
+    },
+    "Name": "Hands-On Software Architecture with C# 8 and .NET Core 3: Architecting software solutions using microservices, DevOps, and design patterns for Azure Cloud",
+    "Description": null,
+    "Price": "6.75",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/817VsnJBgfL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Gabriel Baptista",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fa4"
+    },
+    "Name": "The Complete C. S. Lewis Signature Classics: Boxed Set",
+    "Description": null,
+    "Price": "25.19",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41qaAO6t-8L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C. S. Lewis",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fa5"
+    },
+    "Name": "The Lion, the Witch and the Wardrobe (Chronicles of Narnia #1)",
+    "Description": null,
+    "Price": "80.19",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/61YDWSs+vGL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Kindle Edition",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fa6"
+    },
+    "Name": "The Computer Programming Bible: A Step by Step Guide On How To Master From The Basics to Advanced of Python, C, C++, C#, HTML Coding Raspberry Pi3",
+    "Description": null,
+    "Price": "15.46",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71Id4AVmCOL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fa7"
+    },
+    "Name": "Functional C#: Uncover the secrets of functional programming using C# and change the way you approach your applications forever",
+    "Description": null,
+    "Price": "5.67",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/612SRk4k2SL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Wisnu Anggoro",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fa8"
+    },
+    "Name": "Functional C#: Uncover the secrets of functional programming using C# and change the way you approach your applications forever",
+    "Description": null,
+    "Price": "5.89",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/612SRk4k2SL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Wisnu Anggoro",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fa9"
+    },
+    "Name": "Improving your C# Skills: Solve modern challenges with functional programming and test-driven techniques of C#",
+    "Description": null,
+    "Price": "25.03",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71Nggd4GGEL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Ovais Mehboob Ahmed Khan",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245faa"
+    },
+    "Name": "Rivers of Power: How a Natural Force Raised Kingdoms, Destroyed Civilizations, and Shapes Our World",
+    "Description": null,
+    "Price": "2.63",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91agN2T-J4L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Laurence C. Smith",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fab"
+    },
+    "Name": "The Sword Saint: Empire of Salt Book III",
+    "Description": null,
+    "Price": "22.62",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91Z2Vq0MddL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C. F. Iggulden",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fac"
+    },
+    "Name": "The Hiding Place",
+    "Description": null,
+    "Price": "48.95",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81kcGBdlrML._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C J Tudor",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fad"
+    },
+    "Name": "1177 B.C.: The Year Civilization Collapsed (Turning Points in Ancient History)",
+    "Description": null,
+    "Price": "37.44",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51yRZ4grMYL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Eric H. Cline",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fae"
+    },
+    "Name": "Vitamin C: The Real Story: The Remarkable and Controversial Story of Vitamin C",
+    "Description": null,
+    "Price": "61.74",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71MrsSuKVpL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Steve Hickey",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245faf"
+    },
+    "Name": "Learning C# by Developing Games with Unity 2019: Code in C# and build 3D games with Unity, 4th Edition",
+    "Description": null,
+    "Price": "13.92",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71PfbUbjrVL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Harrison Ferrone",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb0"
+    },
+    "Name": "Before the Dawn (RWBY, Book 2)",
+    "Description": null,
+    "Price": "56.87",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71cLR9kUtbL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "E.C. Myers",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb1"
+    },
+    "Name": "Hands-On Software Architecture with C# 8 and .NET Core 3: Architecting software solutions using microservices, DevOps, and design patterns for Azure Cloud",
+    "Description": null,
+    "Price": "11.33",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/817VsnJBgfL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Gabriel Baptista",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb2"
+    },
+    "Name": "Microsoft Visual C# Step by Step (Developer Reference)",
+    "Description": null,
+    "Price": "78.24",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41sNmCKOkzL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "John Sharp",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb3"
+    },
+    "Name": "Microsoft Visual C# Step by Step (Developer Reference (Paperback))",
+    "Description": null,
+    "Price": "2.13",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41wyw+TAbFL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "John Sharp",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb4"
+    },
+    "Name": "The History of Philosophy",
+    "Description": null,
+    "Price": "22.18",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/7121KPQE72L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "A. C. Grayling",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb5"
+    },
+    "Name": "Curing the Incurable: Vitamin C, Infectious Diseases, and Toxins",
+    "Description": null,
+    "Price": "51.54",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71lgGnAxnJL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb6"
+    },
+    "Name": "Storm in a C Cup: My Autobiography",
+    "Description": null,
+    "Price": "25.92",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81dv-GEpgIL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Caroline Flack",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb7"
+    },
+    "Name": "Open Season (Joe Pickett Novel)",
+    "Description": null,
+    "Price": "26.90",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/915k35UODAL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C. J. Box",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb8"
+    },
+    "Name": "Tombland (The Shardlake series)",
+    "Description": null,
+    "Price": "29.98",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71RpJsZtwUL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C. J. Sansom",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fb9"
+    },
+    "Name": "The 15 Invaluable Laws of Growth: Live Them and Reach Your Potential",
+    "Description": null,
+    "Price": "3.75",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/61A6GRXGzuL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "John C Maxwell",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fba"
+    },
+    "Name": "W.I.T.C.H.: The Graphic Novel, Part VI. Ragorlang, Vol. 3",
+    "Description": null,
+    "Price": "10.74",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51CBtDr1c-L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fbb"
+    },
+    "Name": "The Birth of the Modern World, 1780-1914: Global Connections and Comparisons (Blackwell History of the World)",
+    "Description": null,
+    "Price": "18.49",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51DcPczOxQL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C. A. Bayly",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fbc"
+    },
+    "Name": "Algorithms Illuminated: Part 1: The Basics",
+    "Description": null,
+    "Price": "5.03",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71hVAw0GcIL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Tim Roughgarden",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245fbd"
+    },
+    "Name": "Mastering Qt  5: Create stunning cross-platform applications using C++ with Qt Widgets and QML with Qt Quick, 2nd Edition",
+    "Description": null,
+    "Price": "4.89",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71QlZ8uv-iL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f7c"
+    },
+    "Name": "Functional C#: Uncover the secrets of functional programming using C# and change the way you approach your applications forever",
+    "Description": null,
+    "Price": "0.76",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/612SRk4k2SL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Wisnu Anggoro",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f7d"
+    },
+    "Name": "Improving your C# Skills: Solve modern challenges with functional programming and test-driven techniques of C#",
+    "Description": null,
+    "Price": "26.49",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/71Nggd4GGEL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Ovais Mehboob Ahmed Khan",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f7e"
+    },
+    "Name": "Checkmate to Murder: A Second World War Mystery (British Library Crime Classics)",
+    "Description": null,
+    "Price": "18.66",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/919GfGduCiL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "E.C.R. Lorac",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f7f"
+    },
+    "Name": "Found (The House of Night Other World Series, 4)",
+    "Description": null,
+    "Price": "1.15",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/912sV0ALjIL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "P C Cast",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f80"
+    },
+    "Name": "Free Fire (Joe Pickett)",
+    "Description": null,
+    "Price": "12.54",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/810VPDIEqOL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C. J. Box",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f81"
+    },
+    "Name": "A Liberated Mind: How to Pivot Toward What Matters",
+    "Description": null,
+    "Price": "0.83",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91Ny9bhgb5L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Hardcover",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f82"
+    },
+    "Name": "Lady in Waiting: My Extraordinary Life in the Shadow of the Crown",
+    "Description": null,
+    "Price": "23.12",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51V6AIuuE0L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Anne Glenconner",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f83"
+    },
+    "Name": "2084",
+    "Description": null,
+    "Price": "15.43",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81jvD3XqxmL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "John C. Lennox",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f84"
+    },
+    "Name": "The Ultimate Fake Book: C Edition (Fake Books)",
+    "Description": null,
+    "Price": "26.56",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41SDlBVFISL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Paperback",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f85"
+    },
+    "Name": "The Vegetable Gardener's Bible",
+    "Description": null,
+    "Price": "55.13",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91RpDxBwKDL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Edward C. Smith",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f86"
+    },
+    "Name": "Microsoft Visual C# Step by Step (Developer Reference (Paperback))",
+    "Description": null,
+    "Price": "26.23",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41wyw+TAbFL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "John Sharp",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f87"
+    },
+    "Name": "Microsoft Visual C# Step by Step (Developer Reference)",
+    "Description": null,
+    "Price": "35.78",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/41sNmCKOkzL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "John Sharp",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f88"
+    },
+    "Name": "Test Driven Development for Embedded C (Pragmatic Programmers)",
+    "Description": null,
+    "Price": "26.27",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/91i-nereO-L._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "James W. Grenning",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f89"
+    },
+    "Name": "Trophy Hunt (Joe Pickett Novel)",
+    "Description": null,
+    "Price": "57.28",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/81lI9wwnVpL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C J Box",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f8a"
+    },
+    "Name": "W.I.T.C.H. Part 1, Vol. 1: The Twelve Portals (W.I.T.C.H.: The Graphic Novel)",
+    "Description": null,
+    "Price": "6.63",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/51U9dwrUzfL._AC_UY218_.jpg",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "Disney",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+    "_id": {
+      "$oid": "5eea35bd76c02c49d8245f8b"
+    },
+    "Name": "Strangers: From the author of Sunday Times bestsellers and psychological crime thrillers like Sleep comes the most gripping book of 2020",
+    "Description": null,
+    "Price": "11.75",
+    "Department": 1,
+    "Media": [
+      {
+        "Url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY218_.gif",
+        "ContentType": 1
+      }
+    ],
+    "Reviews": null,
+    "AuthorName": "C.L. Taylor",
+    "Publisher": null,
+    "Language": null,
+    "ISBN10": null,
+    "ISBN13": null
+  },
+  {
+  "_id": {
+    "$oid": "5eea35bd76c02c49d8245f91"
+  },
+  "Name": "Mastering Qt  5: Create stunning cross-platform applications using C++ with Qt Widgets and QML with Qt Quick, 2nd Edition",
+  "Description": null,
+  "Price": "57.11",
+  "Department": 1,
+  "Media": [
+    {
+      "Url": "https://m.media-amazon.com/images/I/71QlZ8uv-iL._AC_UY218_.jpg",
+      "ContentType": 1
+    }
+  ],
+  "Reviews": null,
+  "AuthorName": "Paperback",
+  "Publisher": null,
+  "Language": null,
+  "ISBN10": null,
+  "ISBN13": null
+}]
