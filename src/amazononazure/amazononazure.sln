@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Domain", "Catalog.D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApps", "WebApps", "{A96EA52B-0150-40E2-B00F-6BA848114F57}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oink-mvc", "PluralsightMVC\oink-mvc.csproj", "{BBAE6E61-8CF0-4368-86D5-265B78E24006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oinkmvc", "PluralsightMVC\oinkmvc.csproj", "{BBAE6E61-8CF0-4368-86D5-265B78E24006}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
