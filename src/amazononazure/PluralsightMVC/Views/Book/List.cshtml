@@ -4,7 +4,7 @@
 <hr style="width:100%;">
 @foreach (var book in Model.Data)
 {
-<div class="row">
+@*<div class="row">*@
     <div class="col-sm-3" style="padding-bottom:15px; padding-bottom:15px;">
         <a>
             <img src="@book.Media.FirstOrDefault()?.Url" />
@@ -12,7 +12,9 @@
     </div>
     <div class="col-sm-9">
         <div>
-            <a>
+            <a asp-controller="Book"
+               asp-action="Details"
+               asp-route-id="@book.Id">
                 <span style="font-weight: 700;">@book.Name</span>
             </a>
         </div>
@@ -25,7 +27,7 @@
     </div>
 
     <hr style="width:100%;">
-</div>
+@*</div>*@
 }
 
 

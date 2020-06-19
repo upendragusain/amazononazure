@@ -49,5 +49,14 @@ namespace PluralsightMVC.Controllers
 
             return View(vm);
         }
+
+        public async Task<IActionResult> Details(string id)
+        {
+            var book = await _bookService.GetItem(id);
+            if (book == null)
+                return NotFound();
+
+            return View(book);
+        }
     }
 }

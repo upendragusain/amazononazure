@@ -1,7 +1,6 @@
 ﻿using Newtonsoft.Json;
 using PluralsightMVC.Models;
 using PluralsightMVC.ViewModels;
-using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
@@ -17,9 +16,23 @@ namespace PluralsightMVC.Infrastructure
             _httpClientFactory = httpClientFactory;
         }
 
-        public Task<Book> GetItem(string id)
+        public async Task<Book> GetItem(string id)
         {
-            throw new NotImplementedException();
+            var endpoint = $"api/catalog/items/{id}";
+
+            var catalogClient = _httpClientFactory.CreateClient("CatalogAPI");
+
+            var response = await catalogClient.GetAsync(endpoint);
+
+            if (response.IsSuccessStatusCode)
+            {
+                var book = JsonConvert.DeserializeObject<Book>(
+                    await response.Content.ReadAsStringAsync());
+
+                return book;
+            }
+
+            return null;
         }
 
         public async Task<BookListViewModel> GetItems(
