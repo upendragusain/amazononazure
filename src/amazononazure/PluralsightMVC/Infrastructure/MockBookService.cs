@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using Newtonsoft.Json;
 using PluralsightMVC.Models;
+using PluralsightMVC.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -14,7 +16,8 @@ namespace PluralsightMVC.Infrastructure
 
         public MockBookService(IWebHostEnvironment webHostEnvironment)
         {
-            var path = Path.Combine(webHostEnvironment.ContentRootPath, "Infrastructure", "staticbooksdata.json");
+            var path = Path.Combine(webHostEnvironment.ContentRootPath, 
+                "Infrastructure", "staticbooksdata.json");
             _books = JsonConvert.DeserializeObject<IEnumerable<Book>>(File.ReadAllText(path));
         }
 
@@ -24,7 +27,8 @@ namespace PluralsightMVC.Infrastructure
             return await Task.FromResult(book);
         }
 
-        public async Task<IEnumerable<Book>> GetItems(int pageSize, int pageIndex, string searchTerm)
+        public async Task<BookListViewModel> GetItems(
+            int pageSize, int pageIndex, string searchTerm)
         {
             IEnumerable<Book> result = _books; ;
             if (!string.IsNullOrWhiteSpace(searchTerm))
@@ -36,7 +40,23 @@ namespace PluralsightMVC.Infrastructure
                 .Skip(pageIndex)
                 .Take(pageSize);
 
-            return await Task.FromResult(result);
+            var bookvm = new BookListViewModel()
+            {
+                Count = result.Count(),
+                Data = result,
+                PageIndex = pageIndex,
+                PageSize = pageSize,
+                PaginationInfo = new PaginationInfo()
+                {
+                    ActualPage = pageIndex,
+                    ItemsPerPage = pageSize,
+                    SearchTerm = searchTerm,
+                    TotalItems = result.Count(),
+                    TotalPages = (int)Math.Ceiling((decimal)result.Count() / pageSize)
+                }
+            };
+
+            return await Task.FromResult(bookvm);
         }
     }
 }

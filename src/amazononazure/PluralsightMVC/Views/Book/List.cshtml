@@ -1,4 +1,4 @@
-﻿@model IEnumerable<PluralsightMVC.Models.Book>
+﻿@model PluralsightMVC.ViewModels.BookListViewModel
 
 <html>
 <head>
@@ -8,7 +8,7 @@
     <title>Amazon Books</title>
 </head>
 <body>
-    @foreach (var book in Model)
+    @foreach (var book in Model.Data)
     {
         <div>
             <h2>@book.Name</h2>
