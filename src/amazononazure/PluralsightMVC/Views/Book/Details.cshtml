@@ -1,4 +1,13 @@
 ﻿@model PluralsightMVC.Models.Book
 
-    <hr style="width:100%;">
+<hr style="width:100%;">
 <partial name="_BookCard" model="Model" />
+
+<div class="addToCart">
+    <p class="button">
+        <a class="btn btn-primary"
+           asp-controller="ShoppingCart"
+           asp-action="AddToShoppingCart"
+           asp-route-book="@Model">Add to cart</a>
+    </p>
+</div>

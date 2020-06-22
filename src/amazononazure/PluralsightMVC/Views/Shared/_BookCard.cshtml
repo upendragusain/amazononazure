@@ -18,6 +18,15 @@
     <div>
         <span>£</span>@Html.DisplayFor(model => Model.Price)
     </div>
+
+    <div class="addToCart">
+        <p class="button">
+            <a class="btn btn-primary"
+               asp-controller="ShoppingCart"
+               asp-action="AddToShoppingCart"
+               asp-route-bookId="@Model.Id">Add to cart</a>
+        </p>
+    </div>
 </div>
 
 <hr style="width:100%;">

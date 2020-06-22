@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using oinkmvc.Infrastructure;
 using PluralsightMVC.Infrastructure;
 using System;
 
@@ -25,7 +26,12 @@ namespace PluralsightMVC
                 c.BaseAddress = new Uri(Configuration["CatalogUrl"]);
             });
 
+            services.AddHttpContextAccessor();
+            services.AddSession();
+
             services.AddScoped<IBookService, BookService>();
+
+            services.AddScoped<IShoppingCartService, ShoppingCartService>();
 
             services.AddControllersWithViews();
         }
@@ -40,6 +46,8 @@ namespace PluralsightMVC
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseSession();
 
             app.UseRouting();
 
